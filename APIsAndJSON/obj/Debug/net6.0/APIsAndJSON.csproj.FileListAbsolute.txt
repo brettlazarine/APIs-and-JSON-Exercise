@@ -1,0 +1,17 @@
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.AssemblyReference.cache
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfoInputs.cache
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfo.cs
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CoreCompileInputs.cache
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.exe
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.deps.json
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.runtimeconfig.json
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.dll
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.pdb
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CopyComplete
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.dll
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\refint\APIsAndJSON.dll
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.pdb
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.genruntimeconfig.cache
+C:\TrueCoders\GitHub\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\ref\APIsAndJSON.dll
